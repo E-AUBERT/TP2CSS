@@ -44,3 +44,21 @@ div#menubas {
 	height:200px;
 	background-color:#CC99CC;
 	}
+
+div#blocnews {
+	float:right;
+	width:150px;
+	height:150px;
+	background-color:#FF3300;
+	color: aqua;
+	font-size: 20px;
+}
+
+span#ph2 {
+	color: blue;
+	font-size: 20px;
+	}
+	#ph {
+	color: red;
+	font-size: 30px;
+	}
